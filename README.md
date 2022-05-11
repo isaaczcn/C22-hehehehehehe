@@ -1,2 +1,1 @@
-# C22-hehehehehehe
-nada kkkkkk
+# project-C22-template
